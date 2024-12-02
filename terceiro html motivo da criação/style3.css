@@ -67,12 +67,16 @@ main {
     padding: 30px;
 }
 
+.textColor{
+    color: #e4d9d9;
+}
+
 main p {
     font-size: 1.2rem;
     line-height: 1.6;
     color: #ccc;
 
 .text-muted {
-    color: #a9a9a9 !important;
+    color: #ffffff ;
 }
 }
